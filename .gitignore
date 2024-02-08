@@ -35,3 +35,5 @@ terraform.rc
 
 # 1_basics/terraform_gcp/keys/my_creds.json
 *.json
+
+1_Basics/terraform_gcp/.terraform.lock.hcl
